@@ -1,0 +1,15 @@
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.AssemblyInfoInputs.cache
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.AssemblyInfo.cs
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.csproj.CoreCompileInputs.cache
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.sourcelink.json
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.exe
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.deps.json
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.runtimeconfig.json
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.dll
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.pdb
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.dll
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\refint\Lab06_Exercise02.dll
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.pdb
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.genruntimeconfig.cache
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise02\obj\Debug\net9.0\ref\Lab06_Exercise02.dll

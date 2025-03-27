@@ -1,0 +1,15 @@
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\bin\Debug\net9.0\Lab06_Exercise05.exe
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\bin\Debug\net9.0\Lab06_Exercise05.deps.json
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\bin\Debug\net9.0\Lab06_Exercise05.runtimeconfig.json
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\bin\Debug\net9.0\Lab06_Exercise05.dll
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\bin\Debug\net9.0\Lab06_Exercise05.pdb
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.AssemblyInfoInputs.cache
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.AssemblyInfo.cs
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.csproj.CoreCompileInputs.cache
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.sourcelink.json
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.dll
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\refint\Lab06_Exercise05.dll
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.pdb
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\Lab06_Exercise05.genruntimeconfig.cache
+D:\OOP\lab6\Lab06-66030262\Lab06_Exercise05\obj\Debug\net9.0\ref\Lab06_Exercise05.dll
